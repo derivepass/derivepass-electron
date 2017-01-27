@@ -1,0 +1,7 @@
+gypkg_deps/
+node_modules/
+npm-debug.log
+build/
+deps/
+out/
+DerivePass-*/
